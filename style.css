@@ -65,6 +65,7 @@ img{
 #contact{
   font-size:30px;  
     color:aqua;
+    
 }
 html{
     scroll-behavior: smooth;
@@ -75,5 +76,5 @@ img:hover{
 .contact_1{
     font-size:25px;
     color:#f5f242;
-     display: inline;
+
 }
